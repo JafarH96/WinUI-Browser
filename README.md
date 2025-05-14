@@ -72,4 +72,4 @@ We welcome contributions to improve the WinUI3 Browser! Here's how you can help:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
