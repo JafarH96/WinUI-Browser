@@ -15,31 +15,28 @@ A modern web browser built with WinUI 3 and Microsoft Edge WebView2, offering a 
   - [ ] Profile synchronization
   - [ ] Custom profile settings
 
+- **Window Management** (In Progress)
+  - [ ] Window dragging functionality
+  - [ ] Multiple window support
+  
+- **Settings & Customization** (In Progress)
+  - [ ] Homepage customization
+  - [ ] Browser settings panel
+  - [ ] Download preferences
+  - [ ] Privacy settings
+
 - **Bookmark Management** (Planned)
   - [ ] Bookmark bar implementation
-  - [ ] Bookmark organization system
-  - [ ] Import/Export functionality
 
 - **Extension Support** (Planned)
   - [ ] Extension manager UI
   - [ ] Extension installation system
-
-- **Window Management** (In Progress)
-  - [ ] Window dragging functionality
-  - [ ] Multiple window support
-  - [ ] Window state persistence
 
 - **Privacy Features** (Planned)
   - [ ] Private browsing mode
   - [ ] Clear browsing data functionality
   - [ ] History management system
   - [ ] Download manager
-
-- **Settings & Customization** (In Progress)
-  - [ ] Homepage customization
-  - [ ] Browser settings panel
-  - [ ] Download preferences
-  - [ ] Privacy settings
 
 - **Help & Support** (Planned)
   - [ ] About page
@@ -48,7 +45,7 @@ A modern web browser built with WinUI 3 and Microsoft Edge WebView2, offering a 
 
 ## Technical Details
 
-- **Framework**: WinUI 3
+- **Framework**: .Net 8, WinUI 3
 - **Language**: C# 13.0
 - **Target Platform**: Windows 10/11
 
